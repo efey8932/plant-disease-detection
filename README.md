@@ -24,7 +24,7 @@ Proje, Streamlit kullanılarak web tabanlı bir arayüze dönüştürülmüştü
 - 🌐 Web tabanlı Streamlit arayüzü
 
 ---
-## Model Dosyası
+## 📁 Model Dosyası
 
 Model dosyası GitHub limitinden dolayı ayrı paylaşılmıştır.
 
