@@ -7,6 +7,13 @@ Proje, Streamlit kullanılarak web tabanlı bir arayüze dönüştürülmüştü
 
 ---
 
+## 📊 Model Performansı
+
+- Dataset içi doğruluk: **%98.41**
+- Gerçek dünya (Google görselleri): **%94.58**
+
+---
+
 ## 🚀 Sistem Özellikleri
 
 - 📤 Kullanıcıdan yaprak fotoğrafı yükleme
@@ -17,7 +24,14 @@ Proje, Streamlit kullanılarak web tabanlı bir arayüze dönüştürülmüştü
 - 🌐 Web tabanlı Streamlit arayüzü
 
 ---
+## Model Dosyası
 
+Model dosyası GitHub limitinden dolayı ayrı paylaşılmıştır.
+
+İndirme linki:
+https://drive.google.com/file/d/1_yVu54pDItvENHs8misDOyW44rEQLXu8/view?usp=drive_link
+
+---
 ## 🧠 Kullanılan Teknolojiler
 
 - Python 🐍
@@ -26,13 +40,6 @@ Proje, Streamlit kullanılarak web tabanlı bir arayüze dönüştürülmüştü
 - Streamlit 🌐
 - NumPy
 - Pillow (PIL)
-
----
-
-## 📊 Model Performansı
-
-- Dataset içi doğruluk: **%98.41**
-- Gerçek dünya (Google görselleri): **%94.58**
 
 ---
 
