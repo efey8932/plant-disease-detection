@@ -1,4 +1,4 @@
-#  Bitki Hastalık Tespit Sistemi               Efe Yılmaz 22370031038
+#  Bitki Hastalık Tespit Sistemi              Efe Yılmaz 22370031038
 
 ##  Proje Amacı
 Bu proje, yaprak görüntülerinden bitki türü ve hastalık tespiti yapabilen bir derin öğrenme (CNN) tabanlı web uygulamasıdır. Amaç, tarım alanında hastalıkların hızlı ve otomatik şekilde tespit edilmesini sağlamaktır.
