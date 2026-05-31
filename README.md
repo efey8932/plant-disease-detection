@@ -1,4 +1,4 @@
-#  Bitki Hastalık Tespit Sistemi (Plant Disease Detection)      ---------EFE YILMAZ 22370031038--------
+#  Bitki Hastalık Tespit Sistemi (Plant Disease Detection)     Efe Yılmaz 22370031038
 
 ##  Proje Amacı
 Bu proje, yaprak görüntülerinden bitki türü ve hastalık tespiti yapabilen bir derin öğrenme (CNN) tabanlı web uygulamasıdır. Amaç, tarım alanında hastalıkların hızlı ve otomatik şekilde tespit edilmesini sağlamaktır.
@@ -16,12 +16,12 @@ Proje, Streamlit kullanılarak web tabanlı bir arayüze dönüştürülmüştü
 
 ##  Sistem Özellikleri
 
-- 📤 Kullanıcıdan yaprak fotoğrafı yükleme
-- 🎲 Dataset içerisinden rastgele test görüntüsü seçme
-- 🌿 Bitki türü tespiti
-- 🦠 Hastalık sınıflandırması
-- 🔢 Güven (confidence) oranı gösterimi
-- 🌐 Web tabanlı Streamlit arayüzü
+-  Kullanıcıdan yaprak fotoğrafı yükleme
+-  Dataset içerisinden rastgele test görüntüsü seçme
+-  Bitki türü tespiti
+-  Hastalık sınıflandırması
+-  Güven (confidence) oranı gösterimi
+-  Web tabanlı Streamlit arayüzü
 
 ---
 ##  Model Dosyası
@@ -34,10 +34,10 @@ https://drive.google.com/file/d/1_yVu54pDItvENHs8misDOyW44rEQLXu8/view?usp=drive
 ---
 ##  Kullanılan Teknolojiler
 
-- Python 🐍
-- TensorFlow / Keras 🤖
+- Python 
+- TensorFlow / Keras 
 - Convolutional Neural Networks (CNN)
-- Streamlit 🌐
+- Streamlit 
 - NumPy
 - Pillow (PIL)
 
@@ -54,7 +54,7 @@ https://drive.google.com/file/d/1_yVu54pDItvENHs8misDOyW44rEQLXu8/view?usp=drive
 
 ---
 
-## ▶️ Kurulum ve Çalıştırma
+##  Kurulum ve Çalıştırma
 
 ```bash
 pip install -r requirements.txt
